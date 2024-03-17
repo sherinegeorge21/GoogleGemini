@@ -28,5 +28,6 @@ Click on "Process Now" to analyze the image and get disposal recommendations.
 The app will display the object name(s), suggested disposal method(s), and optionally, a reason for the suggestion.
 Use the "Back to camera" button to capture and analyze another image.
 
-## Usage
+## Contact
 For questions or feedback, please reach out to sherinegeorge21@gmail.com.
+
