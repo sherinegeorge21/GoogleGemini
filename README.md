@@ -18,3 +18,15 @@ To run this app, you need Python 3.6 or later and a Google Cloud Platform accoun
    ```bash
    git clone <REPOSITORY_URL>
    cd <REPOSITORY_DIRECTORY>
+
+## Usage
+After launching the app:
+
+Allow the web application to access your camera.
+Capture an image of the waste item you want to classify.
+Click on "Process Now" to analyze the image and get disposal recommendations.
+The app will display the object name(s), suggested disposal method(s), and optionally, a reason for the suggestion.
+Use the "Back to camera" button to capture and analyze another image.
+
+## Usage
+For questions or feedback, please reach out to sherinegeorge21@gmail.com.
