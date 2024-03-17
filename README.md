@@ -9,6 +9,9 @@ SORTRIGHT is a real-time waste classification and disposal educator app develope
 - Suggestions for right waste disposal methods based on the identified object(s) in the image.
 - Customizable UI with options to adjust the layout and styling.
 
+## Demo
+https://youtu.be/5iCajgkHHqE
+
 ## Setup
 
 To run this app, you need Python 3.6 or later and a Google Cloud Platform account with the Generative AI API enabled.
