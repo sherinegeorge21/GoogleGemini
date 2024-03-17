@@ -56,7 +56,7 @@ custom_css()
 
 
 # Configure your Google API
-GOOGLE_API_KEY = 'AIzaSyDSrpjLKSZHHZNHfGwX2vizbFTSli-jz2Q'  # Replace with your actual Google API key
+GOOGLE_API_KEY = 'YOUR API KEY'  # Replace with your actual Google API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Define the Gemini model
